@@ -28,7 +28,7 @@ const Messages = () => {
         <div className="relative header w-full  ">
           <div className="flex items-center gap-2 justify-center border-b h-10">
             <label className="text-xs font-semibold tracking-tight">
-              aziz-codes
+            Imaz
             </label>
             <ChevronDownIcon className="h-4 w-4 cursor-pointer mt-1" />
           </div>
