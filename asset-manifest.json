@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Insta-Clone/static/css/main.6c48e5f4.css",
+    "main.js": "/Insta-Clone/static/js/main.06ca5cf9.js",
+    "static/js/471.6269edc4.chunk.js": "/Insta-Clone/static/js/471.6269edc4.chunk.js",
+    "static/media/user.jpg": "/Insta-Clone/static/media/user.229db8648e8ef9c1baa1.jpg",
+    "static/media/insta-text.png": "/Insta-Clone/static/media/insta-text.0234e0bf8fae139480ea.png",
+    "static/media/insta-logo.png": "/Insta-Clone/static/media/insta-logo.f17dfc7783ea8b3bb5f7.png",
+    "static/media/user2.jpg": "/Insta-Clone/static/media/user2.4b41e5c09698f7f4f9f9.jpg",
+    "static/media/user1.jpg": "/Insta-Clone/static/media/user1.54f2a70e2804cdf6f09d.jpg",
+    "static/media/user5.jpg": "/Insta-Clone/static/media/user5.8732aa377888dc5873fb.jpg",
+    "static/media/user4.jpg": "/Insta-Clone/static/media/user4.58081dc8c31bc0e1cb6c.jpg",
+    "static/media/user3.jpg": "/Insta-Clone/static/media/user3.bec51ce16f238c7ec7b1.jpg",
+    "index.html": "/Insta-Clone/index.html",
+    "main.6c48e5f4.css.map": "/Insta-Clone/static/css/main.6c48e5f4.css.map",
+    "main.06ca5cf9.js.map": "/Insta-Clone/static/js/main.06ca5cf9.js.map",
+    "471.6269edc4.chunk.js.map": "/Insta-Clone/static/js/471.6269edc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c48e5f4.css",
+    "static/js/main.06ca5cf9.js"
+  ]
+}
